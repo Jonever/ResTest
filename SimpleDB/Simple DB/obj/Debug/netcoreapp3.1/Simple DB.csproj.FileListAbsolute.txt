@@ -1,0 +1,16 @@
+C:\Users\jonev\source\repos\Simple DB\Simple DB\bin\Debug\netcoreapp3.1\Simple DB.exe
+C:\Users\jonev\source\repos\Simple DB\Simple DB\bin\Debug\netcoreapp3.1\Simple DB.deps.json
+C:\Users\jonev\source\repos\Simple DB\Simple DB\bin\Debug\netcoreapp3.1\Simple DB.runtimeconfig.json
+C:\Users\jonev\source\repos\Simple DB\Simple DB\bin\Debug\netcoreapp3.1\Simple DB.runtimeconfig.dev.json
+C:\Users\jonev\source\repos\Simple DB\Simple DB\bin\Debug\netcoreapp3.1\Simple DB.dll
+C:\Users\jonev\source\repos\Simple DB\Simple DB\bin\Debug\netcoreapp3.1\Simple DB.pdb
+C:\Users\jonev\source\repos\Simple DB\Simple DB\obj\Debug\netcoreapp3.1\Simple DB.csprojAssemblyReference.cache
+C:\Users\jonev\source\repos\Simple DB\Simple DB\obj\Debug\netcoreapp3.1\Simple_DB.Form1.resources
+C:\Users\jonev\source\repos\Simple DB\Simple DB\obj\Debug\netcoreapp3.1\Simple DB.csproj.GenerateResource.cache
+C:\Users\jonev\source\repos\Simple DB\Simple DB\obj\Debug\netcoreapp3.1\Simple DB.AssemblyInfoInputs.cache
+C:\Users\jonev\source\repos\Simple DB\Simple DB\obj\Debug\netcoreapp3.1\Simple DB.AssemblyInfo.cs
+C:\Users\jonev\source\repos\Simple DB\Simple DB\obj\Debug\netcoreapp3.1\Simple DB.csproj.CoreCompileInputs.cache
+C:\Users\jonev\source\repos\Simple DB\Simple DB\obj\Debug\netcoreapp3.1\Simple DB.dll
+C:\Users\jonev\source\repos\Simple DB\Simple DB\obj\Debug\netcoreapp3.1\Simple DB.pdb
+C:\Users\jonev\source\repos\Simple DB\Simple DB\obj\Debug\netcoreapp3.1\Simple DB.genruntimeconfig.cache
+C:\Users\jonev\source\repos\Simple DB\Simple DB\obj\Debug\netcoreapp3.1\Simple_DB.Properties.Resources.resources
